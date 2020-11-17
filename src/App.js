@@ -4,7 +4,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import { Header } from './components/Header';
 import { Playlists } from './components/Playlists';
 import { Favorites } from './components/Favorites';
-
+ 
 function App() {
   // Make vars
 	const [playlists, setPlaylists] = useState([]);
