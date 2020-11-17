@@ -247,3 +247,7 @@ input[type=submit] {
 .not-fave-icon {
   color: #c41e3a;
 }
+
+.new-playlist input[type=submit] {
+  background-color: black;
+}
